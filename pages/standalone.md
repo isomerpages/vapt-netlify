@@ -1,0 +1,4 @@
+---
+title: Standalone
+permalink: /standalone
+---
